@@ -17,10 +17,6 @@ class Myshape:
         area3 = self.radius * self.radius * 3.14
         print(area3)
     
-    
-    
-
-
 s1 = Myshape(5)
 s1.calculation_square()
 
@@ -29,3 +25,5 @@ r1.calculation_rectangle()
 
 c1 = Myshape(0,0,0,3)
 c1.calculation_circle()
+
+
